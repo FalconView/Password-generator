@@ -8,17 +8,5 @@ The password generator was created to generated randomly strong passwords in ord
 
 #- Length: 8 to 128 characters
 -- Characters: lowercase letters, uppercase letters, numbers, special characters (Need to choose more than 1 character type.)
- var specificLanguage_code = 
-    {
-        "data": {
-            "lookedUpPlatform": 1,
-            "query": "Kasabian+Test+Transmission",
-            "lookedUpItem": {
-                "name": "Test Transmission",
-                "artist": "Kasabian",
-                "album": "Kasabian",
-                "picture": null,
-                "link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
-            }
-        }
-    }
+Markup : ```javascript
+         ```
