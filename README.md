@@ -8,3 +8,5 @@ The password generator was created to generated randomly strong passwords in ord
 
 #- Length: 8 to 128 characters
 -- Characters: lowercase letters, uppercase letters, numbers, special characters (Need to choose more than 1 character type.)
+ Markup : * Bullet list
+              * Nested bullet
