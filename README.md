@@ -33,3 +33,15 @@ The password generator was created to generated randomly strong passwords in ord
 * Final result
 
 ![PasswordGenerator](https://user-images.githubusercontent.com/39162030/167784850-bb5a3316-7cfb-418d-aa63-fdfae7dd6bcf.png)
+
+# Built With
+
+* HTML
+* CSS
+* Javascript
+
+
+# Website
+
+
+![PasswordWeb](https://user-images.githubusercontent.com/39162030/167786429-51948255-acbf-41d7-9772-8ade647ddd29.png)
